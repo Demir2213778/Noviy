@@ -1,1 +1,28 @@
-# Noviy
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <p>Это <strong>Дэмир</strong><br><b>Нельзя оценить красоту леса, оценивая лишь одно дерево</b></p>
+        <p>Это <em>Женя</em><br><i>Хочу спать</i></p>
+        <p>Это <u>Эмир</u><br><u>ACCA</u></p>
+        <p><b><s>МАМА НЕ КУРИТ</s></b><br><i>Мама курит</i></p>
+        <p>Это <span style="color: red;">krasniy</span>
+        <p>Это <span style="font-size: 24px;">bolwoy huy</span></p>
+        <p>Это <span style="color:aqua; font-size: 24px;">AQUA HUY</span></p>
+        <blockquote>"Ты - это твой каждодневный выбор"</blockquote>
+        <p>как кто-то сказал: <q>семь раз отмерь - один раз отреж</q></p>
+        <p>Чтобы вывести текст в HTML, используйте <code>&lt;p&gt;</code></p>
+        <pre>
+      &lt;body&gt;
+         &lt;p&gt;Hello, world!&lt;/p&gt;
+      &lt;/body&gt;
+        </pre>
+        <p>Как ты смотришь на то чтобы сходить в рестик</p>
+        <hr>
+        <p>Можно будет</p>
+        <hr>
+        </body>
+        </html># Noviy
